@@ -1,0 +1,5 @@
+elasticsearch>=8,<9
+sentence-transformers
+groq
+streamlit
+psycopg2-binary
